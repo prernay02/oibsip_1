@@ -1,6 +1,8 @@
 Oasis Infobyte : Web Development and Designing Internship
+
 Task 1: Calculator
-Overview
+
+Overview :
 Welcome to the Oasis Infobyte Web Development and Designing Internship! This task focuses on creating a basic calculator using web technologies. The goal is to build a functional calculator that can perform basic arithmetic operations.
 
 Features :
